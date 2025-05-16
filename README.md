@@ -1,5 +1,5 @@
 
-![Alt text](almight.jpeg)
+![Alt text](allmight.jpeg)
 
 These are the strategies being used
 1. Funding Rate Strategy
