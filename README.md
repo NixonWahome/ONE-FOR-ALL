@@ -1,3 +1,6 @@
+
+![Alt text](almight.jpeg)
+
 These are the strategies being used
 1. Funding Rate Strategy
 Purpose: Trades based on crypto futures funding rates
