@@ -17,7 +17,7 @@ Current Status:
 
 Funding rate = 0.00010000 (below threshold → no trades)
 
-2. Technical Strategy
+2. Technical Strategy.....
 Purpose: Uses RSI, MACD, and volume for entries/exits
 
 Key Parameters:
