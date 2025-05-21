@@ -25,7 +25,7 @@ class Config:
     # Binance
     BINANCE_API_KEY = os.getenv("BINANCE_API_KEY")
     BINANCE_API_SECRET = os.getenv("BINANCE_API_SECRET")
-    TESTNET = True  # Change to False for live trading
+    TESTNET = True  # Change to False for Live trading
 
     # Trading Parameters
     LEVERAGE = 3
