@@ -13,6 +13,7 @@ import requests
 
 load_dotenv()
 # Initialize decimal precision
+#UpdAted decimal error fix
 getcontext().prec = 8
 
 
