@@ -12,7 +12,7 @@ from binance.client import Client
 import requests
 
 load_dotenv()
-# Initialize decimal precision
+# Initialize decimal precision12332
 #UpdAted decimal error fix
 getcontext().prec = 8
 
